@@ -1,6 +1,8 @@
 # todo-ember
 #Todo Ember 2
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wellington1993/todo-ember.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
