@@ -45,7 +45,7 @@
   },
   "private": true,
   "dependencies": {
-    "bower": "^1.8.0",
+    "bower": "^1.8.10",
     "ember-data-fixture-adapter": "^1.13.0",
     "http-mock": "^0.1.0",
     "phantomjs": "^2.1.7",
